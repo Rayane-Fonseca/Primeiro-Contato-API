@@ -27,5 +27,5 @@ Um site básico usando PokéAPI.
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/JavaScript/JavaScript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/JS/JS-original.svg" 
 />
