@@ -7,11 +7,11 @@ Um site básico usando PokéAPI.
 
 <img 
     align="left" 
-    alt="HTML5"
-    title="HTML5" 
+    alt="HTML"
+    title="HTML" 
     width="30px" 
     style="padding-right: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/HTML5/HTML5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/HTML/HTML-original.svg" 
 />
 <img 
     align="left" 
