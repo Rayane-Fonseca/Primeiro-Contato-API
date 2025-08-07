@@ -10,22 +10,22 @@ Um site básico usando PokéAPI.
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/HTML/HTML-original.svg" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS"
-    title="CSS" 
+    alt="CSS" 
+    title="CSS"
     width="30px" 
-    style="padding-right: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/CSS/CSS-original.svg" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
-    style="padding-right: 30px;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/JavaScript/JavaScript-original.svg" 
 />
